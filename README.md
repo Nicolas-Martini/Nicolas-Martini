@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Nicolas-Martini/Nicolas-Martini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Nicolas 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estou desenvolvendo minhas habilidades em programação, com foco em C# e .NET.
+
+## 🚀 Tecnologias e conhecimentos
+
+- C#
+- .NET
+- Programação Orientada a Objetos (POO)
+- Lógica de programação
+- Git e GitHub
+- SQL (em aprendizado)
+
+## 📚 Atualmente estudando
+
+- C# e Programação Orientada a Objetos
+- ASP.NET Core
+- APIs REST
+- Entity Framework Core
+
+## 💼 Projetos
+
+- [CaixaEletronico-CSharp](https://github.com/Nicolas-Martini/CaixaEletronico-CSharp)
+- [meus-exercicios-csharp](https://github.com/Nicolas-Martini/meus-exercicios-csharp)
+
+## 📫 Contato
+
+- GitHub: [Nicolas-Martini](https://github.com/Nicolas-Martini)
