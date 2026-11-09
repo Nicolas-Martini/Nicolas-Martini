@@ -12,7 +12,7 @@
 - Programação Orientada a Objetos (POO)
 - Lógica de programação
 - Git e GitHub
-- SQL (em aprendizado)
+- SQL(em aprendizado)
 
 ## 📚 Atualmente estudando
 
